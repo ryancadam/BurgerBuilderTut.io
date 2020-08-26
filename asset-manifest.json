@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ryancadam/BurgerBuilderTut.io.git/static/css/main.71764855.chunk.css",
-    "main.js": "/ryancadam/BurgerBuilderTut.io.git/static/js/main.a188de7a.chunk.js",
-    "main.js.map": "/ryancadam/BurgerBuilderTut.io.git/static/js/main.a188de7a.chunk.js.map",
-    "runtime-main.js": "/ryancadam/BurgerBuilderTut.io.git/static/js/runtime-main.5793f4e3.js",
-    "runtime-main.js.map": "/ryancadam/BurgerBuilderTut.io.git/static/js/runtime-main.5793f4e3.js.map",
-    "static/js/2.bd77d3f4.chunk.js": "/ryancadam/BurgerBuilderTut.io.git/static/js/2.bd77d3f4.chunk.js",
-    "static/js/2.bd77d3f4.chunk.js.map": "/ryancadam/BurgerBuilderTut.io.git/static/js/2.bd77d3f4.chunk.js.map",
-    "index.html": "/ryancadam/BurgerBuilderTut.io.git/index.html",
-    "precache-manifest.bfa2facb6654d17aece6b13179a780d2.js": "/ryancadam/BurgerBuilderTut.io.git/precache-manifest.bfa2facb6654d17aece6b13179a780d2.js",
-    "service-worker.js": "/ryancadam/BurgerBuilderTut.io.git/service-worker.js",
-    "static/css/main.71764855.chunk.css.map": "/ryancadam/BurgerBuilderTut.io.git/static/css/main.71764855.chunk.css.map",
-    "static/js/2.bd77d3f4.chunk.js.LICENSE.txt": "/ryancadam/BurgerBuilderTut.io.git/static/js/2.bd77d3f4.chunk.js.LICENSE.txt",
-    "static/media/burgerlogo.png": "/ryancadam/BurgerBuilderTut.io.git/static/media/burgerlogo.b8503d26.png"
+    "main.css": "/BurgerBuilderTut.io/static/css/main.71764855.chunk.css",
+    "main.js": "/BurgerBuilderTut.io/static/js/main.805351bb.chunk.js",
+    "main.js.map": "/BurgerBuilderTut.io/static/js/main.805351bb.chunk.js.map",
+    "runtime-main.js": "/BurgerBuilderTut.io/static/js/runtime-main.19ea993c.js",
+    "runtime-main.js.map": "/BurgerBuilderTut.io/static/js/runtime-main.19ea993c.js.map",
+    "static/js/2.bd77d3f4.chunk.js": "/BurgerBuilderTut.io/static/js/2.bd77d3f4.chunk.js",
+    "static/js/2.bd77d3f4.chunk.js.map": "/BurgerBuilderTut.io/static/js/2.bd77d3f4.chunk.js.map",
+    "index.html": "/BurgerBuilderTut.io/index.html",
+    "precache-manifest.adb6a6acf0000e1556d6c3c23a1df9fb.js": "/BurgerBuilderTut.io/precache-manifest.adb6a6acf0000e1556d6c3c23a1df9fb.js",
+    "service-worker.js": "/BurgerBuilderTut.io/service-worker.js",
+    "static/css/main.71764855.chunk.css.map": "/BurgerBuilderTut.io/static/css/main.71764855.chunk.css.map",
+    "static/js/2.bd77d3f4.chunk.js.LICENSE.txt": "/BurgerBuilderTut.io/static/js/2.bd77d3f4.chunk.js.LICENSE.txt",
+    "static/media/burgerlogo.png": "/BurgerBuilderTut.io/static/media/burgerlogo.b8503d26.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5793f4e3.js",
+    "static/js/runtime-main.19ea993c.js",
     "static/js/2.bd77d3f4.chunk.js",
     "static/css/main.71764855.chunk.css",
-    "static/js/main.a188de7a.chunk.js"
+    "static/js/main.805351bb.chunk.js"
   ]
 }
